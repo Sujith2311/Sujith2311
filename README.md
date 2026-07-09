@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sujith Kumar 👋
+# Hi, I'm SujithKumar👋
 
 **Third-Year B.Tech Student | Artificial Intelligence & Machine Learning**
 

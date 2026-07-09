@@ -54,7 +54,7 @@ Passionate about Machine Learning, Deep Learning, Data Science,DSA.
 
 ## Achievements
 
-- 🏆 Solved 50+ LeetCode Problems
+- 🏆 Solved 130+ LeetCode Problems
 - 🏆 Building a Machine Learning Portfolio
 - 🏆 Open Source Learner
 

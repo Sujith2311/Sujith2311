@@ -4,7 +4,7 @@
 
 **Third-Year B.Tech Student | Artificial Intelligence & Machine Learning**
 
-Passionate about Machine Learning, Deep Learning, Data Science, and Backend Development.
+Passionate about Machine Learning, Deep Learning, Data Science,DSA.
 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>

@@ -89,7 +89,7 @@ Passionate about Machine Learning, Deep Learning, Data Science, and Data Structu
 
 - 🏆 Solved **130+ LeetCode Problems**
 - 🏆 Built multiple Machine Learning projects
-- 🏆 Completed Supervised Machine Learning algorithms
+- 🏆 Completed Supervised & Unsupervised Machine Learning algorithms
 - 🏆 Building a strong AI/ML portfolio
 - 🏆 Exploring Deep Learning and NLP
 

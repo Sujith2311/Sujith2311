@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Hi,%20I'm%20SujithKumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Hi,%20I'm%20SujithKumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Third-Year+B.Tech+Student;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+Data+Science+%7C+DSA;Building+one+project+at+a+time+🚀"/>
-</a>
+### Third-Year B.Tech Student &nbsp;|&nbsp; AI & Machine Learning Enthusiast
 
 <a href="https://www.linkedin.com/in/sujithkumar-erugu/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>

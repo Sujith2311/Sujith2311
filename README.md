@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm SujithKumar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Hi,%20I'm%20SujithKumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Third-Year B.Tech Student | Artificial Intelligence & Machine Learning | 
-
-Passionate about Machine Learning, Deep Learning, Data Science, and Data Structures & Algorithms.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Third-Year+B.Tech+Student;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+Data+Science+%7C+DSA;Building+one+project+at+a+time+🚀"/>
+</a>
 
 <a href="https://www.linkedin.com/in/sujithkumar-erugu/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -27,7 +27,7 @@ Passionate about Machine Learning, Deep Learning, Data Science, and Data Structu
 - 🎓 Third-Year B.Tech Student specializing in **Artificial Intelligence & Machine Learning**
 - 🤖 Passionate about Machine Learning, Deep Learning, NLP, and Data Science
 - 💻 Strong foundation in Python, Java, C, SQL, and Data Structures & Algorithms
-- 📚 Currently learning Machine Learning and Optimisation in DSA , NLP and DL
+- 📚 Currently learning Machine Learning and Optimisation in DSA, NLP and DL
 - 🚀 Building real-world AI/ML projects to strengthen my portfolio
 - 🤝 Open to internships, research opportunities, and open-source collaborations
 
@@ -131,5 +131,7 @@ Passionate about Machine Learning, Deep Learning, Data Science, and Data Structu
 ### ⭐ Thanks for visiting my profile!
 
 *"Keep Learning • Keep Building • Keep Growing."* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=Sujith2311&style=flat-square&color=0A66C2" alt="profile views"/>
 
 </div>
